@@ -1,3 +1,9 @@
-User-agent: *
-Disallow:
-Sitemap: https://timetrial.2828.ru/sitemap.xml
+<!DOCTYPE HTML><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>robots</title><link rel="stylesheet" href="https://2828.ru/css/3000.css"><main>User-Agent: *
+Allow: /
+Disallow: /cgi-bin
+Disallow: /mx
+Disallow: /km
+Disallow: /z
+Disallow: /a
+Disallow: /*.php$
+Host: timetrial.2828.ru</main>
